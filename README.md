@@ -1,2 +1,4 @@
-# PINN_for_Bacterial_Growth_Modeling
-This repo is dedicated to the Graduation Thesis on physics infromed neural network (PINN) desing for modeling bacterial growth
+# PINN for Bacterial Growth Modeling
+This repository is dedicated to the Bachelor Thesis on physics infromed neural network (PINN) desing for modeling bacterial growth.
+Author: Liubov Smirnova, Innopolis University.
+Superviser: Anna Maslovskaya.
